@@ -6,3 +6,4 @@ Pasos a seguir para construir un contenedor con Jenkins:
 2. ejecutar el siguiente comando: ./build-docker.sh
 3. ejecutar el siguiente comando: ./build-jenkins.sh
 4. Comprobar la instalacion de Jenkins en localhost:8081
+# ImagenJenkins
